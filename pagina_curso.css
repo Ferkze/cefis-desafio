@@ -1,0 +1,48 @@
+#courseThumb {
+    width: 100%;
+    height: auto;
+}
+.navbar {
+    padding:6px;
+    margin: 0;
+    background: #333;
+}
+.navbar-title {
+    display: block;
+    font-size: 2em;
+    color: azure;
+}
+.navbar-title:hover {
+    text-decoration: none;
+    color: aqua;
+}
+.row {
+    margin: 20px 0px;
+}
+.main-row {
+    background: #333;
+    border-radius: 6px;
+    color: white;
+}
+p {
+    margin-top: 1rem;
+}
+.title {
+    font-size: 1.6em;
+    font-weight: bolder;
+}
+.subtitle {
+    font-size: 1.4em;
+}
+.thumbnail {
+    float: left;
+    width: 160px;
+    height: 90px;
+    margin-right: 32px;
+    border-radius: 6px;
+}
+.class-title {
+    font-size: 1.4em;
+    letter-spacing: 2px;
+    margin: 28.5px 0px;
+}
