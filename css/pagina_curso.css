@@ -2,17 +2,14 @@
     width: 100%;
     height: auto;
 }
-.navbar {
-    padding:6px;
-    margin: 0;
-    background: #333;
-}
-.navbar-title {
+.header {
     display: block;
-    font-size: 2em;
+    text-align: center;
     color: azure;
+    background: #333;
+    padding:16px;
 }
-.navbar-title:hover {
+.header:hover {
     text-decoration: none;
     color: aqua;
 }
